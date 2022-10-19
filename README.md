@@ -1,6 +1,6 @@
 # Alura-Spark-apresentando-a-ferramenta
 
-Curso de Spark: apresentando a ferramenta
+Curso de Spark: apresentando a ferramenta - link do curso: https://cursos.alura.com.br/course/spark-apresentando-ferramenta
 
 
 * Aprenda como utilizar o Python para criar aplicações Spark
